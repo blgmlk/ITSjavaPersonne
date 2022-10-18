@@ -8,6 +8,8 @@ import java.sql.Statement;
 
 import com.itsjava.classe.Personne;
 
+
+
 public class Connexion {
 
     public static void bdConnexion(Personne p){
